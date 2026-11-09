@@ -1,6 +1,0 @@
-DB_HOST = localhost
-DB_PORT = 5432
-DB_NAME = library_management
-DB_USER = postgres
-DB_PASS = Anurag@1
-
